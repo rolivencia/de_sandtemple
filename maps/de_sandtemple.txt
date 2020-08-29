@@ -1,0 +1,33 @@
+de_sandtemple [Beta 1]
+
+Por Ramiro Olivencia alias Mapper22, alias BruceDickinson
+
+mapper22@gmail.com      www.mapland.com.ar
+
+Nombre del mapa:   	de_sandtemple
+Tamaño:			6mb aproximadamente
+
+Mod:			Counter-Strike y Counter-Strike: Condition Zero
+	
+Editor:			Valve Hammer Editor v3.5
+Tiempo de compilación: 	20 minutos aproximadamente
+Tools: 			ZHLT v3.2.1
+
+Otros mapas por mí:	gt_legov2, mp22_warehouse, mp22_gr_tennis
+
+Otros datos:		El mapa posee soporte para detailtextures
+
+======================================================================
+
+Y bueh, quiero agradecer a toda la gente de Mapland (Franco, Edusan, Diablo_87, Vada, No_Mercyjedi, Metalero, Painkiller, y los demás :P)
+
+Sin todos los de arriba, yo no estaría mappeando como lo hago ahora, gracias a todos :-)
+
+También quiero agradecer a algunos de mis otros beta-testers, Joak1n, Raven y HarZens, por hacerme los bug reports y así poder mejorar el mapa :D
+
+Y we, también a los otros que me ayudaron en 3DG para añadir detalles y también por los bug reports.
+
+Gracias a todos. :-)
+
+
+

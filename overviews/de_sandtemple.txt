@@ -1,0 +1,13 @@
+// overview description file for de_sandtemple.bsp
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	0 	-672	128	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_sandtemple.bmp"
+	HEIGHT	-180
+}

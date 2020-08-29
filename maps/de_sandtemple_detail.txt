@@ -1,0 +1,71 @@
+// Detail texture map file for cs_assault_cz level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+	
+
+ddrkmtlmpanel5		detail/dt_metal1		10	10
+d_drkmtl_mpanel		detail/dt_metal1		10	10
+defaultmetal		detail/dt_metal1		10	10
+drkmtl_default		detail/dt_metal1		10	10
+drkmtl_dpanelc		detail/dt_metal1		10	10
+drkmtl_mpanel		detail/dt_metal1		10	10
+drkmtl_mpanelgr		detail/dt_metal1		10	10
+eshinytin		detail/dt_metal1		10	10
+mtlpanelsmll		detail/dt_metal1		10	10
+mtlslots		detail/dt_metal1		10	10
+
+d_tech_drkwall          detail/dt_metal2		10	10
+d_tech_wall_drk		detail/dt_metal2		10	10
+d_tech_wall_grl		detail/dt_metal2		10	10
+dwtrim_fade		detail/dt_metal2		10	10
+dwtrim_grill		detail/dt_metal2		10	10
+mtltechwall_128		detail/dt_metal2		10	10
+tech_wall_grll		detail/dt_metal2		10	10
+tflooroddtile		detail/dt_metal2		10	10
+
+mtl2grt			detail/dt_fabric1		10	10
+tfloor_rndholes		detail/dt_fabric1		10	10
+tfloorrndholes		detail/dt_fabric1		10	10
+wrnjumppad		detail/dt_fabric1		10	10
+
+lighttechdoor_d		detail/dt_fabric2		10	10
+step			detail/dt_fabric2		10	10
+trim_wrnrivets		detail/dt_fabric2		10	10
+trimtl_grlbtm		detail/dt_fabric2		10	10
+
+pk_concrete1a		detail/dt_rough1		3	3
+pk_concrete1b		detail/dt_rough1		3	3
+pk_floor4b		detail/dt_rough1		3	3
+
+pk_crateside2		detail/dt_wood			7	7
+pk_crateside3		detail/dt_wood2			7	7
+pk_cratetop3		detail/dt_wood2			7	7
+
+pk_cratetop2		detail/dt_smooth1		7	7
+
+pk_detail1a		detail/dt_stone3		5	5
+pk_detail1b		detail/dt_stone3		5	5
+pk_detail2b		detail/dt_stone3		5	5
+
+pk_floor1e		detail/dt_stone1		5	5
+pk_floor1i		detail/dt_stone1		5	5
+
+pk_floor2a		detail/dt_conc			10	10
+pk_floor2b		detail/dt_conc			10	10
+pk_floor2e		detail/dt_conc			10	10
+pk_floor2f		detail/dt_conc			10	10
+pk_roof1a		detail/dt_conc			10	10
+pk_roof1c		detail/dt_conc			10	10
+pk_trim2a		detail/dt_conc			10	10
+pk_trim2b		detail/dt_conc			10	10
+pk_trim4		detail/dt_conc			10	10
+pk_wall1		detail/dt_conc			10	10
+pk_wall2a		detail/dt_conc			10	10
+pk_wall2b		detail/dt_conc			10	10
+pk_wall3b		detail/dt_conc			10	10
+
+pk_floor3a		detail/dt_stone4		7	7
+pk_floor3c		detail/dt_stone4		7	7
+pk_floor3e		detail/dt_stone4		7	7
+pk_floor3j		detail/dt_stone4		7	7
+
+pk_sand1a		detail/dt_plaster2		5	5
