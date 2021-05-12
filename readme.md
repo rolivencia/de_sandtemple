@@ -1,4 +1,7 @@
 # de_sandtemple
+
+![image](https://user-images.githubusercontent.com/32349705/117912936-ce4ee100-b2b6-11eb-8761-8bd1bbbac765.png)
+
 An original defuse (de_) map created between December, 2004 and May, 2005 for Counter-Strike 1.6 & Counter-Strike: Condition Zero.
 
 All the custom textures, which were made by Blazeeer! (credits to him) are bundled in the .bsp file. This map makes use of the detailed textures feature, and the .tga and _detail.txt files are provided in the gfx/detail and maps folders.
